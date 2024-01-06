@@ -20,11 +20,15 @@
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "C#",
+    "imageSrc": "skills/sharpc.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Python",
+    "imageSrc": "skills/pythonLogo.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgrelogo.png"
   }
 ]

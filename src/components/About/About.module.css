@@ -90,3 +90,9 @@
     padding-right: 0;
   }
 }
+
+@media screen and (max-width: 430px){
+  .aboutItem p {
+    font-size: 18px;
+  }
+}

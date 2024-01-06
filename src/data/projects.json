@@ -1,26 +1,20 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Mobile Application in Flutter",
+    "imageSrc": "projects/flutterlogo.png",
+    "description": " Designed a mobile application with seamless integration of a QR scanner using the Flutter framework, coupled with robust REST APIs for enhanced functionality and user experience.",
+    "skills": ["Flutter", "REST API", "HASURA"]
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Construction Management Software",
+    "imageSrc": "projects/conlogo.webp",
+    "description": "Developed a Construction Management software by seamlessly integrating Typescript, C#, and SQL. Crafted and implemented supplementary features to elevate the overall user experience. ",
+    "skills": ["React-Typescript", "C#", "Microsoft SQL"]
   },
   {
-    "title": "Project C",
+    "title": "Web Application in React-Typescript",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed two web applications for data visualization using TypeScript, integrated with the Hasura GraphQL engine and PostgreSQL database. Implemented Azure Maps visualizations to enhance the user experience and deliver dynamic, insightful displays of geographical data.",
+    "skills": ["React", "Typescript", "GraphQL", "HASURA"]
   }
 ]
